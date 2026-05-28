@@ -143,7 +143,7 @@ The app will open in your browser at `http://localhost:8501`
 
 ## 📖 How to Use
 
-1. **Upload** your `churn.csv` file using the file uploader
+1. **Upload** your csv file using the file uploader
 2. **Explore** the dataset preview and summary statistics
 3. **Analyze** EDA charts — churn distribution, contract types, monthly charges
 4. **Select** a Machine Learning model from the sidebar
